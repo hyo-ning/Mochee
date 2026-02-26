@@ -48,7 +48,7 @@ tqdm
 Example:
 
 ``` bash
-python run_merge.py \
+python main.py \
   --target <target_dataset> \
   --sources <source1> <source2> ... \
   --seeds 1 4 7 \
