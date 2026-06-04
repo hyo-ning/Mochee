@@ -4,6 +4,11 @@ This repository contains the implementation of **MOCHEE**, a
 target-centric model merging framework for source-free speech
 classification.
 
+## Overview
+
+![Overview of MOCHEE](overview.png)
+
+MOCHEE constructs a target-centric classifier by aligning pretrained source classifiers with permutation matrices and learning target-relevant merging weights via meta-reweighting.
 ------------------------------------------------------------------------
 
 ## Environment
